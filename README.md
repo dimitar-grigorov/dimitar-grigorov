@@ -1,7 +1,6 @@
 # Hello, I'm Dimitar! 👋
 
-I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies. Over the years, I've cultivated proficiency in:
-
+I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies.
 ## About Me
 
 - 💻 Programming is not just my profession; it's my creative outlet. I believe in crafting code that not only solves problems but also enhances user experiences.
