@@ -1,6 +1,6 @@
 # Hello, I'm Dimitar! 👋
 
-I'm a passionate and detail-oriented developer with a professional qualification as a C# Full-Stack Developer, having graduated from [SoftUni](https://softuni.bg/). My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies.
+I'm a passionate and detail-oriented developer with a professional qualification as a [C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg), having graduated from [SoftUni](https://softuni.bg/). My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies.
 
 ## About Me
 
@@ -22,8 +22,6 @@ In addition to my core tech stack:
 ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Node.js Logo](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Terraform Logo](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker Logo](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB Logo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux Logo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Logo](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🎓 [Diplomas and Certificates](certificates.md)
-
-I have a range of diplomas and certificates. Please check [this page](certificates.md) to see them.
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
 
