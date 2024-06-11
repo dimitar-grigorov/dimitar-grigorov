@@ -1,6 +1,6 @@
 # Hello, I'm Dimitar! 👋
 
-I'm a passionate and detail-oriented developer with a professional qualification as a [C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg), having graduated from [SoftUni](https://softuni.bg/). My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies.
+I'm a passionate and detail-oriented developer with a professional qualification as a [C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg). My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies.
 
 ## About Me
 
