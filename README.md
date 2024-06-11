@@ -27,52 +27,52 @@ Here are my diplomas and certificates from SoftUni:
 
 ### Diplomas
 
-- **C# Full-Stack Developer**  
-  [![C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg)](https://softuni.bg/certificates/details/208752/4708d8f7)
+- [**C# Full-Stack Developer**](https://softuni.bg/certificates/details/208752/4708d8f7)  
+  [![C# Full-Stack Developer](Certificates/Thumbnails/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg)](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg)
 
-- **C# Web Developer**  
-  [![C# Web Developer](Certificates/Diploma%20for%20C%23%20Web%20Developer.jpeg)](https://softuni.bg/certificates/details/193727/ee8a5cc9)
+- [**C# Web Developer**](https://softuni.bg/certificates/details/193727/ee8a5cc9)  
+  [![C# Web Developer](Certificates/Thumbnails/Diploma%20for%20C%23%20Web%20Developer.jpeg)](Certificates/Diploma%20for%20C%23%20Web%20Developer.jpeg)
 
 ### Certificates
 
-- **System and Network Compromising**  
-  [![System and Network Compromising](Certificates/System%20and%20Network%20Compromising%20-%20January2024%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/208227/7845e2bc)
+- [**System and Network Compromising**](https://softuni.bg/certificates/details/208227/7845e2bc)  
+  [![System and Network Compromising](Certificates/Thumbnails/System%20and%20Network%20Compromising%20-%20January2024%20-%20Certificate.jpeg)](Certificates/System%20and%20Network%20Compromising%20-%20January2024%20-%20Certificate.jpeg)
 
-- **Software Engineering and DevOps**  
-  [![Software Engineering and DevOps](Certificates/Software%20Engineering%20and%20DevOps%20-%20October%202023%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/201265/f4899d31)
+- [**Software Engineering and DevOps**](https://softuni.bg/certificates/details/201265/f4899d31)  
+  [![Software Engineering and DevOps](Certificates/Thumbnails/Software%20Engineering%20and%20DevOps%20-%20October%202023%20-%20Certificate.jpeg)](Certificates/Software%20Engineering%20and%20DevOps%20-%20October%202023%20-%20Certificate.jpeg)
 
-- **Containers and Cloud**  
-  [![Containers and Cloud](Certificates/Containers%20and%20Cloud%20-%20September%202023%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/192064/b37be003)
+- [**Containers and Cloud**](https://softuni.bg/certificates/details/192064/b37be003)  
+  [![Containers and Cloud](Certificates/Thumbnails/Containers%20and%20Cloud%20-%20September%202023%20-%20Certificate.jpeg)](Certificates/Containers%20and%20Cloud%20-%20September%202023%20-%20Certificate.jpeg)
 
-- **TypeScript**  
-  [![TypeScript](Certificates/TypeScript%20-%20October%202023%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/193705/a00ad575)
+- [**TypeScript**](https://softuni.bg/certificates/details/193705/a00ad575)  
+  [![TypeScript](Certificates/Thumbnails/TypeScript%20-%20October%202023%20-%20Certificate.jpeg)](Certificates/TypeScript%20-%20October%202023%20-%20Certificate.jpeg)
 
-- **ASP.NET Advanced**  
-  [![ASP.NET Advanced](Certificates/ASP.NET%20Advanced%20-%20June%202023%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/184363/ac9c8c00)
+- [**ASP.NET Advanced**](https://softuni.bg/certificates/details/184363/ac9c8c00)  
+  [![ASP.NET Advanced](Certificates/Thumbnails/ASP.NET%20Advanced%20-%20June%202023%20-%20Certificate.jpeg)](Certificates/ASP.NET%20Advanced%20-%20June%202023%20-%20Certificate.jpeg)
 
-- **ASP.NET Fundamentals**  
-  [![ASP.NET Fundamentals](Certificates/ASP.NET%20Fundamentals%20-%20May%202023%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/175424/5918dc81)
+- [**ASP.NET Fundamentals**](https://softuni.bg/certificates/details/175424/5918dc81)  
+  [![ASP.NET Fundamentals](Certificates/Thumbnails/ASP.NET%20Fundamentals%20-%20May%202023%20-%20Certificate.jpeg)](Certificates/ASP.NET%20Fundamentals%20-%20May%202023%20-%20Certificate.jpeg)
 
-- **Entity Framework Core**  
-  [![Entity Framework Core](Certificates/Entity%20Framework%20Core%20-%20June%202022%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/138342/6d91675b)
+- [**Entity Framework Core**](https://softuni.bg/certificates/details/138342/6d91675b)  
+  [![Entity Framework Core](Certificates/Thumbnails/Entity%20Framework%20Core%20-%20June%202022%20-%20Certificate.jpeg)](Certificates/Entity%20Framework%20Core%20-%20June%202022%20-%20Certificate.jpeg)
 
-- **MS SQL**  
-  [![MS SQL](Certificates/MS%20SQL%20-%20May%202022%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/134829/91799a33)
+- [**MS SQL**](https://softuni.bg/certificates/details/134829/91799a33)  
+  [![MS SQL](Certificates/Thumbnails/MS%20SQL%20-%20May%202022%20-%20Certificate.jpeg)](Certificates/MS%20SQL%20-%20May%202022%20-%20Certificate.jpeg)
 
-- **JS Applications**  
-  [![JS Applications](Certificates/JS%20Applications%20-%20February%202022%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/130249/a47a44da)
+- [**JS Applications**](https://softuni.bg/certificates/details/130249/a47a44da)  
+  [![JS Applications](Certificates/Thumbnails/JS%20Applications%20-%20February%202022%20-%20Certificate.jpeg)](Certificates/JS%20Applications%20-%20February%202022%20-%20Certificate.jpeg)
 
-- **JS Advanced**  
-  [![JS Advanced](Certificates/JS%20Advanced%20-%20January%202022%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/126707/5f49614a)
+- [**JS Advanced**](https://softuni.bg/certificates/details/126707/5f49614a)  
+  [![JS Advanced](Certificates/Thumbnails/JS%20Advanced%20-%20January%202022%20-%20Certificate.jpeg)](Certificates/JS%20Advanced%20-%20January%202022%20-%20Certificate.jpeg)
 
-- **C# OOP**  
-  [![C# OOP](Certificates/C%23%20OOP%20-%20October%202021%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/120516/e6d1bf9e)
+- [**C# OOP**](https://softuni.bg/certificates/details/120516/e6d1bf9e)  
+  [![C# OOP](Certificates/Thumbnails/C%23%20OOP%20-%20October%202021%20-%20Certificate.jpeg)](Certificates/C%23%20OOP%20-%20October%202021%20-%20Certificate.jpeg)
 
-- **C# Advanced**  
-  [![C# Advanced](Certificates/C%23%20Advanced%20-%20September%202021%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/114373/0fc8c502)
+- [**C# Advanced**](https://softuni.bg/certificates/details/114373/0fc8c502)  
+  [![C# Advanced](Certificates/Thumbnails/C%23%20Advanced%20-%20September%202021%20-%20Certificate.jpeg)](Certificates/C%23%20Advanced%20-%20September%202021%20-%20Certificate.jpeg)
 
-- **Programming Fundamentals with C#**  
-  [![Programming Fundamentals with C#](Certificates/Programming%20Fundamentals%20with%20C%23%20-%20May%202021%20-%20Certificate.jpeg)](https://softuni.bg/certificates/details/111756/52602fe4)
+- [**Programming Fundamentals with C#**](https://softuni.bg/certificates/details/111756/52602fe4)  
+  [![Programming Fundamentals with C#](Certificates/Thumbnails/Programming%20Fundamentals%20with%20C%23%20-%20May%202021%20-%20Certificate.jpeg)](Certificates/Programming%20Fundamentals%20with%20C%23%20-%20May%202021%20-%20Certificate.jpeg)
 
 Feel free to explore my repositories and provide feedback. I'm always eager to learn and improve!
 
