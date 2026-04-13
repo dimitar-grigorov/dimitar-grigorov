@@ -1,5 +1,7 @@
 # Hi, I'm Dimitar
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&speed=20&pause=500&height=30&lines=Legacy+modernization+specialist;C%23+%7C+Go+%7C+Delphi+%7C+TypeScript;Electronics+repair+%26+IoT+enthusiast)](https://git.io/typing-svg)
+
 Developer with a background in C# full-stack development and a professional qualification as a [C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg). I work across backend systems, developer tooling, embedded projects, and server infrastructure.
 
 ## 👤 About Me
@@ -18,14 +20,10 @@ Developer with a background in C# full-stack development and a professional qual
 
 ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Node.js Logo](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Terraform Logo](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker Logo](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux Logo](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Logo](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📈 GitHub Stats
+## 📜 [Diplomas and Certificates](certificates.md)
 
-![Dimitar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimitar-grigorov&show_icons=true&hide_border=true)
-
-## 🔬 Beyond Code
+## ⚡ Beyond Code
 
 Component-level electronics repair: oscilloscopes, logic analyzers, HackRF, and SMD work under a microscope. I build small IoT devices with ESP32 from scratch and enjoy bringing dead hardware back to life (laptops, power supplies, controllers).
-
-## 📜 [Diplomas and Certificates](certificates.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github)](https://github.com/dimitar-grigorov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dimitar-grigorov-463077b2/) [![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:dimitardanchov@gmail.com)
