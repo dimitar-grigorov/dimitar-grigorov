@@ -1,6 +1,6 @@
 # Hi, I'm Dimitar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&speed=20&pause=500&height=30&lines=Legacy+modernization+specialist;C%23+%7C+Go+%7C+Delphi+%7C+TypeScript;Electronics+repair+%26+IoT+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&speed=20&pause=500&height=30&lines=Legacy+modernization+specialist;C%23+%7C+Go+%7C+Delphi+%7C+TypeScript;Electronics+repair+%26+IoT+enthusiast)](https://github.com/dimitar-grigorov)
 
 Developer with a background in C# full-stack development and a professional qualification as a [C# Full-Stack Developer](Certificates/Diploma%20for%20C%23%20Full-Stack%20Developer.jpeg). I work across backend systems, developer tooling, embedded projects, and server infrastructure.
 
